@@ -1,0 +1,16 @@
+{
+  "title": "Quick App Scale",
+  "description": "Scroll on app headers to quickly resize the app",
+  "version": "1.0.0",
+  "scripts": ["module.js"],
+  "url": "https://github.com/xaukael/quick-app-scale",
+  "manifest": "https://github.com/xaukael/quick-app-scale/raw/main/module.json",
+  "download": "https://github.com/xaukael/quick-app-scale/raw/main/quick-app-scale.zip",
+  "id": "quick-app-scale",
+  "name": "quick-app-scales",
+  "authors": [{"name":"Xaukael"}],
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10"
+  }
+}
